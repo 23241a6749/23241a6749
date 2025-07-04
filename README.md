@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m Sai Mohaneesh
 
-<!--
-**23241a6749/23241a6749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Developer | 🌍 Open Source Contributor  
+Passionate about building tools that solve real problems and being part of collaborative tech communities.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, Kotlin  
+- **Frameworks & Tools:** React, Flask, Jetpack Compose, Git, GitHub, Docker  
+- **Other:** Web APIs, SQL, Firebase, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Contributing to **Open Source Connect India** as an official Contributor
+- Building real-world full stack projects
+- Exploring DevOps, automation, and clean code practices
+
+## 📫 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sai-mohaneesh-neela-423476289/)  
+- ✉️ Email: nsaimohaneesh@gmail.com  
+
+---
+
+Thanks for stopping by! ⭐
