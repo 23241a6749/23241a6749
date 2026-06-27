@@ -32,6 +32,7 @@
 
 ## 🏆 Highlights
 - 🎓 CSE student turning learning into shipped work
+- 🏅 2× National-level hackathon winner, building under pressure and delivering polished solutions
 - 🤝 Open-source contributor collaborating in real development workflows
 - 🧠 Builder across frontend, backend, data, and deployment
 - 🎯 Open to **AI Engineer** and **Software Engineer** internships
@@ -51,23 +52,19 @@
   <a href="https://github.com/23241a6749?tab=repositories"><strong>Browse all repositories →</strong></a>
 </p>
 
-## ⚙️ Tech Stack
-<p align="center">
-  <strong>Languages</strong><br />
-  <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,typescript" alt="Language icons" />
-</p>
-<p align="center">
-  <strong>Frontend & Backend</strong><br />
-  <img src="https://skillicons.dev/icons?i=react,flask,fastapi,nextjs" alt="Frontend and backend icons" />
-</p>
-<p align="center">
-  <strong>Database & Cloud</strong><br />
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,supabase" alt="Database and cloud icons" />
-</p>
-<p align="center">
-  <strong>Dev Tools</strong><br />
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" alt="Developer tools icons" />
-</p>
+## ⚙️ Skills
+<div align="center">
+
+| Category | Skills |
+| --- | --- |
+| AI / ML / Agentic Systems | Python, LLMs, Prompt Engineering, RAG, Agentic Workflows, NLP, Data Pipelines |
+| Frontend Engineering | React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS |
+| Backend & APIs | Node.js, Flask, FastAPI, REST APIs, Authentication, Microservices |
+| Databases & Cloud | MongoDB, MySQL, Firebase, Oracle, SQL |
+| Dev Tools & Deployment | Git, GitHub, Docker, Vercel, Netlify, Postman |
+| Problem Solving | Competitive Programming, Rapid Prototyping, Hackathon Execution, Debugging |
+
+</div>
 
 ## 📊 GitHub Stats
 <p align="center">
