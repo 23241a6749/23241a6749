@@ -34,7 +34,20 @@
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,react,flask,firebase,mongodb,mysql,docker,git,github,vscode,linux" alt="Tech stack icons" />
+  <strong>Languages</strong><br />
+  <img src="https://skillicons.dev/icons?i=python,javascript,kotlin" alt="Language icons" />
+</p>
+<p align="center">
+  <strong>Frontend & Backend</strong><br />
+  <img src="https://skillicons.dev/icons?i=react,flask" alt="Frontend and backend icons" />
+</p>
+<p align="center">
+  <strong>Database & Cloud</strong><br />
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" alt="Database and cloud icons" />
+</p>
+<p align="center">
+  <strong>Dev Tools</strong><br />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" alt="Developer tools icons" />
 </p>
 
 ## 📊 GitHub Stats
@@ -51,6 +64,7 @@
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/23241a6749/23241a6749/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+<p align="center"><sub>If the snake does not appear immediately, run the <b>Generate Snake</b> workflow once from the Actions tab.</sub></p>
 
 ## 📬 Contact
 If you're hiring for an internship or early-career role in AI/software engineering, let's connect.
