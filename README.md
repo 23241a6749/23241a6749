@@ -1,55 +1,59 @@
-<h1 align="center">Sai Mohaneesh Neela (@23241a6749)</h1>
-<p align="center"><strong>Aspiring AI/Full-Stack Engineer shipping practical products with clean execution.</strong></p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=720&height=70&duration=3500&lines=Hi+there+%F0%9F%91%8B;+I'm+Sai+Mohaneesh+Neela;+AI+%26+Full-Stack+Engineer" alt="Typing intro" />
+</h1>
 
 <p align="center">
-  <a href="mailto:nsaimohaneesh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/sai-mohaneesh-neela-423476289/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"></a>
-  <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=flat-square&logo=github">
+  <strong>Building production-minded AI + full-stack products with clean code and strong UX.</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:nsaimohaneesh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sai-mohaneesh-neela-423476289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/23241a6749?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-111111?style=for-the-badge&logo=github" alt="Projects" /></a>
 </p>
 
 ---
 
-## 🚀 Mission
-Build useful, production-minded software that combines **AI, backend systems, and great product UX**—with measurable real-world value.
+## 🚀 Current Focus
+- Contributing to **Open Source Connect India**
+- Shipping end-to-end **AI + full-stack** projects
+- Growing in **DevOps, automation, and scalable architecture**
 
-## 🎯 Current Focus
-- Official contributor at **Open Source Connect India**
-- Building and shipping **full-stack projects** end-to-end
-- Improving depth in **DevOps, automation, and clean architecture**
+## 🏆 Highlights
+- 🎓 CSE student turning learning into practical shipped work
+- 🤝 Open-source contributor collaborating in real dev workflows
+- 🧠 Builder across frontend, backend APIs, data, and deployment
+- 🎯 Open to **AI Engineer / Software Engineer** internships
 
-## 🏆 Highlights (Recruiter Snapshot)
-- 🎓 CS student actively translating coursework into real projects
-- 🤝 Open-source contributor working in collaborative engineering workflows
-- 🧠 Cross-stack builder: from frontend experience to backend APIs and data
-- 📈 Career focus: **AI Engineer / Software Engineer (Product + Platform)**
+## 🧩 Featured Work
+- **AI & Automation Tools** — practical systems that cut manual work
+- **Full-Stack Apps** — product-focused builds with clean architecture
+- **Mobile/Web Projects** — reliable apps with modern UX and APIs
 
-## 🧩 Featured Projects
-> I keep my strongest work pinned on my profile. Explore the repos for architecture, documentation, and implementation quality.
+➡️ **Browse all repos:** [github.com/23241a6749?tab=repositories](https://github.com/23241a6749?tab=repositories)
 
-- **AI & Automation Builds** — practical tools that reduce manual effort and improve decision quality
-- **Full-Stack Applications** — product-style projects with frontend, backend, APIs, and persistence
-- **Mobile/Web Experiments** — fast iteration projects focused on UX and reliability
+## ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,react,flask,firebase,mongodb,mysql,docker,git,github,vscode,linux" alt="Tech stack icons" />
+</p>
 
-➡️ **Browse projects:** [github.com/23241a6749?tab=repositories](https://github.com/23241a6749?tab=repositories)
-
-## 🛠 Tech Stack
-**Languages:** Python · JavaScript · Kotlin  
-**Frameworks:** React · Flask · Jetpack Compose  
-**Data/Infra:** SQL · Firebase · MongoDB · Docker  
-**Workflow:** Git · GitHub · API integration · clean code practices
-
-## 📊 Stats & Social Proof
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=23241a6749&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23241a6749&layout=compact&hide_border=true" alt="Top languages" height="160" />
 </p>
 
-## 📬 Contact / CTA
-If you're hiring for an intern or early-career role in **AI, software engineering, or full-stack development**, I'd love to connect.
+## 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/23241a6749/23241a6749/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/23241a6749/23241a6749/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/23241a6749/23241a6749/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+## 📬 Contact
+If you're hiring for an internship or early-career role in AI/software engineering, let's connect.
 
 - 📧 **Email:** [nsaimohaneesh@gmail.com](mailto:nsaimohaneesh@gmail.com)
 - 💼 **LinkedIn:** [sai-mohaneesh-neela-423476289](https://www.linkedin.com/in/sai-mohaneesh-neela-423476289/)
-
----
-
-<p align="center"><em>Open to internships, collaborations, and impactful engineering opportunities.</em></p>
