@@ -80,7 +80,6 @@
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/23241a6749/23241a6749/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-<p align="center"><sub>If the snake does not appear immediately, run the <b>Generate Snake</b> workflow once from the Actions tab.</sub></p>
 
 ## 📬 Contact
 <p align="center">
