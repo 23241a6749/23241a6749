@@ -53,86 +53,79 @@
 </p>
 
 ## ⚙️ Skills
-<table align="center">
-  <tr>
-    <th>Category</th>
-    <th>Skills</th>
-  </tr>
-  <tr>
-    <td><strong>Frameworks</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,flask,fastapi" alt="Frameworks" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,html,css" alt="Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Styling & Frameworks</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=tailwind,sass" alt="Styling and frameworks" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>AI / ML / Agentic Systems</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs" />
-      <img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge" alt="Prompt Engineering" />
-      <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" alt="RAG" />
-      <img src="https://img.shields.io/badge/Agentic_Workflows-111827?style=for-the-badge" alt="Agentic Workflows" />
-      <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge" alt="NLP" />
-      <img src="https://img.shields.io/badge/ML-111827?style=for-the-badge" alt="ML" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Database</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" alt="Database" />
-      <img src="https://img.shields.io/badge/Oracle-111827?style=for-the-badge" alt="Oracle" />
-      <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge" alt="SQL" />
-      <img src="https://img.shields.io/badge/Mongoose-111827?style=for-the-badge" alt="Mongoose" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Services & Tools</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Services and tools" />
-      <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge" alt="REST APIs" />
-      <img src="https://img.shields.io/badge/Authentication-111827?style=for-the-badge" alt="Authentication" />
-      <img src="https://img.shields.io/badge/Microservices-111827?style=for-the-badge" alt="Microservices" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Competitive Coding</strong></td>
-    <td>
-      <a href="https://leetcode.com/">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-      </a>
-      <a href="https://www.geeksforgeeks.org/">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-      </a>
-      <a href="https://www.codechef.com/">
-        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-      </a>
-      <a href="https://codeforces.com/">
-        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Problem Solving</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Competitive_Programming-111827?style=for-the-badge" alt="Competitive Programming" />
-      <img src="https://img.shields.io/badge/Rapid_Prototyping-111827?style=for-the-badge" alt="Rapid Prototyping" />
-      <img src="https://img.shields.io/badge/Hackathon_Execution-111827?style=for-the-badge" alt="Hackathon Execution" />
-      <img src="https://img.shields.io/badge/Debugging-111827?style=for-the-badge" alt="Debugging" />
-      <img src="https://img.shields.io/badge/Data_Pipelines-111827?style=for-the-badge" alt="Data Pipelines" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_/_ML_/_Agentic_Systems-111827?style=for-the-badge" alt="AI / ML / Agentic Systems" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-111827?style=for-the-badge" alt="Agentic Workflows" />
+  <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge" alt="NLP" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frameworks-111827?style=for-the-badge" alt="Frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,flask,fastapi" alt="Frameworks" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-111827?style=for-the-badge" alt="Languages" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,c,cpp,html,css" alt="Languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Styling_%26_Frameworks-111827?style=for-the-badge" alt="Styling and Frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=tailwind,sass" alt="Styling and frameworks" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Database-111827?style=for-the-badge" alt="Database" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" alt="Database" />
+  <img src="https://img.shields.io/badge/Oracle-111827?style=for-the-badge" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/Mongoose-111827?style=for-the-badge" alt="Mongoose" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Services_%26_Tools-111827?style=for-the-badge" alt="Services and tools" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Services and tools" />
+  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Authentication-111827?style=for-the-badge" alt="Authentication" />
+  <img src="https://img.shields.io/badge/Microservices-111827?style=for-the-badge" alt="Microservices" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Competitive_Coding-111827?style=for-the-badge" alt="Competitive Coding" />
+  <br />
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://codeforces.com/">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem_Solving-111827?style=for-the-badge" alt="Problem Solving" />
+  <br />
+  <img src="https://img.shields.io/badge/Competitive_Programming-111827?style=for-the-badge" alt="Competitive Programming" />
+  <img src="https://img.shields.io/badge/Rapid_Prototyping-111827?style=for-the-badge" alt="Rapid Prototyping" />
+  <img src="https://img.shields.io/badge/Hackathon_Execution-111827?style=for-the-badge" alt="Hackathon Execution" />
+  <img src="https://img.shields.io/badge/Debugging-111827?style=for-the-badge" alt="Debugging" />
+  <img src="https://img.shields.io/badge/Data_Pipelines-111827?style=for-the-badge" alt="Data Pipelines" />
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
