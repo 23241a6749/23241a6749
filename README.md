@@ -55,14 +55,46 @@
 ## ⚙️ Skills
 <div align="center">
 
-| Category | Skills |
-| --- | --- |
-| AI / ML / Agentic Systems | Python, LLMs, Prompt Engineering, RAG, Agentic Workflows, NLP, Data Pipelines |
-| Frontend Engineering | React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS |
-| Backend & APIs | Node.js, Flask, FastAPI, REST APIs, Authentication, Microservices |
-| Databases & Cloud | MongoDB, MySQL, Firebase, Oracle, SQL |
-| Dev Tools & Deployment | Git, GitHub, Docker, Vercel, Netlify, Postman |
-| Problem Solving | Competitive Programming, Rapid Prototyping, Hackathon Execution, Debugging |
+### AI / ML / Agentic Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-111827?style=for-the-badge" alt="Agentic Workflows" />
+  <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge" alt="NLP" />
+</p>
+
+### Frontend Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind" alt="Frontend skills" />
+</p>
+
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi" alt="Backend skills" />
+  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Authentication-111827?style=for-the-badge" alt="Authentication" />
+</p>
+
+### Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" alt="Databases and cloud" />
+  <img src="https://img.shields.io/badge/Oracle-111827?style=for-the-badge" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge" alt="SQL" />
+</p>
+
+### Dev Tools & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,netlify,postman" alt="Dev tools" />
+</p>
+
+### Problem Solving
+<p>
+  <img src="https://img.shields.io/badge/Competitive_Programming-111827?style=for-the-badge" alt="Competitive Programming" />
+  <img src="https://img.shields.io/badge/Hackathon_Execution-111827?style=for-the-badge" alt="Hackathon Execution" />
+  <img src="https://img.shields.io/badge/Rapid_Prototyping-111827?style=for-the-badge" alt="Rapid Prototyping" />
+</p>
 
 </div>
 
